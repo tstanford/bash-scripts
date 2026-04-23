@@ -19,7 +19,7 @@ Example installation on Debian/Ubuntu:
 
 Run the script with a PDF file:
 
-    booklet-withpagenumbers.sh input.pdf
+    ./booklet-withpagenumbers.sh input.pdf
 
 The script will generate:
 
